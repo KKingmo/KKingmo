@@ -1,3 +1,4 @@
+<div style='background:#000000'>
 ### Hi there 👋
 <p>
 I'm Kingmo
@@ -24,3 +25,4 @@ I'm Kingmo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark)
 
+</div>
