@@ -1,9 +1,11 @@
 <div>
-<p>
-Hi there 👋 I'm Kingmo
-<img data-target="animated-image.replacedImage" alt="68747470733a2f2f7468756d62732e6766796361742e636f6d2f4261726548656176656e6c79426c756566696e74756e612d73697a655f726573747269637465642e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/551958ea74c6c812b57a276e6d720341047bd65ef4af8b1ff3a0005e052fd5fa/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4261726548656176656e6c79426c756566696e74756e612d73697a655f726573747269637465642e676966" height="30x" style="display: block; opacity: 1;">
-</p>
+  
+<h2>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=80FF00&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://git.io/typing-svg)
 
+</h2>
+  
 ## Language and Tools
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
