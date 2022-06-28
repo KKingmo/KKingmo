@@ -1,11 +1,11 @@
 <div>
-  
-<h2>
-  
+<br/>
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=80FF00&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://git.io/typing-svg)
 
-</h2>
-  
+</div>
+
 ## Language and Tools
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
