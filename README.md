@@ -17,5 +17,7 @@ I'm Kingmo
 </p>
 
 ## Motto
-## Motto
+## My
 <img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+
+![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=radical)
