@@ -17,6 +17,7 @@ I'm Kingmo
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
+
 <table>
 <tbody>
 <tr>
@@ -29,6 +30,7 @@ I'm Kingmo
 
 ![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark)
 
+</td>
 </tr>
 </tbody>
 </table>
