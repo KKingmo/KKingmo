@@ -1,6 +1,7 @@
-### Hi there 👋
+<div align="center">
+<br />
 <p>
-I'm Kingmo
+Hi there 👋 I'm Kingmo
 <img data-target="animated-image.replacedImage" alt="68747470733a2f2f7468756d62732e6766796361742e636f6d2f4261726548656176656e6c79426c756566696e74756e612d73697a655f726573747269637465642e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/551958ea74c6c812b57a276e6d720341047bd65ef4af8b1ff3a0005e052fd5fa/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4261726548656176656e6c79426c756566696e74756e612d73697a655f726573747269637465642e676966" height="30x" style="display: block; opacity: 1;">
 </p>
 
@@ -17,27 +18,16 @@ I'm Kingmo
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
-
-<table>
-<tbody>
-<tr>
-<td valign="top">
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark)
 
-</td>
-<td valign="top">
-
 ![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark)
 
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+
 
 ## Motto
 ## My
 <img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-
-
-
+</div>
