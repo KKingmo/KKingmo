@@ -22,6 +22,5 @@ I'm Kingmo
 
 ![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact)](https://github.com/KKingmo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KKingmo&repo=github-readme-stats)](https://github.com/KKingmo/github-readme-stats)
