@@ -17,8 +17,8 @@ Hi there 👋 I'm Kingmo
 </p>
   
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark" width=49%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark" width=40.949%/>
+<img src="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark" width=49.2%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark" width=49.2%/>
 </div>
 
 ## Motto
