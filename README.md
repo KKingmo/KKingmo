@@ -1,10 +1,17 @@
-<div>
+<div style="background-color:#0d1117">
 <br/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=80FF00&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://git.io/typing-svg)
 
 </div>
+
+## Motto
+  * 현상을 개선하기보다는 근본 원인을 찾아 문제를 해결하자.
+  * 기억이 기록을 이기지는 못한다.
+  
+## My
+<img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
 ## Language and Tools
 <p>
@@ -22,12 +29,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark" width=49.2%/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark" width=41.11%/>
 </div>
-
-## Motto
-  * 현상을 개선하기보다는 근본 원인을 찾아 문제를 해결하자.
-  * 기억이 기록을 이기지는 못한다.
-## MyTechBlog
-<img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
 <br/>
 
