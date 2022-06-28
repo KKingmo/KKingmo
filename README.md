@@ -22,6 +22,7 @@ Hi there 👋 I'm Kingmo
 </div>
 
 ## Motto
+  * 현상을 개선하기보다는 근본 원인을 찾아 문제를 해결하자.
 ## My
 <img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </div>
