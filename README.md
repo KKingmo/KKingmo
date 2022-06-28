@@ -1,4 +1,3 @@
-<div style='background:#000000'>
 ### Hi there 👋
 <p>
 I'm Kingmo
@@ -24,5 +23,3 @@ I'm Kingmo
 ![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&theme=chartreuse-dark)
-
-</div>
