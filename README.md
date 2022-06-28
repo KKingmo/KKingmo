@@ -20,4 +20,8 @@ I'm Kingmo
 ## My
 <img alt="MyTechBlog" src="https://img.shields.io/badge/My Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 
-![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=radical)
+![Kingmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact)](https://github.com/KKingmo/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KKingmo&repo=github-readme-stats)](https://github.com/KKingmo/github-readme-stats)
