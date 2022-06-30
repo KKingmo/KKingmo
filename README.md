@@ -1,18 +1,18 @@
-<div style="background-color:#0d1117">
+<div>
 <br/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=80FF00&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://github.com/KKingmo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=0f6ae5&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://github.com/KKingmo)
 
 </div>
 
-## Motto
+### Motto
   * 현상을 개선하기보다는 근본 원인을 찾아 문제를 해결하자.
   * 기억이 기록을 이기지는 못한다.
   
 <hr/>
   
-## Language and Tools
+### Language and Tools
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -27,8 +27,8 @@
 <hr/>
   
 <p align="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=0f6ae5&hide_rank=true">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=0f6ae5&langs_count=8">
 </p>
 
 <br/>
