@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=0f6ae5&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://github.com/KKingmo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=58a6ff&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://github.com/KKingmo)
 
 </div>
 
@@ -29,10 +29,10 @@
 <table align="center">
 <tr>
 <td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=0f6ae5&hide_rank=true">
+<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=58a6ff&hide_rank=true">
 </td>
 <td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=0f6ae5&langs_count=8">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=58a6ff&langs_count=8">
 </td>
 </tr>
 </table>
