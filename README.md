@@ -24,12 +24,18 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<hr/>
-  
-<p align="center">
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top">
 <img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=0f6ae5&hide_rank=true">
+</td>
+<td valign="top">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=0f6ae5&langs_count=8">
-</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
