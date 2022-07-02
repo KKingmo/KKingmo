@@ -1,9 +1,8 @@
 <div>
-<br/>
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carter+One&size=35&duration=4000&color=58a6ff&center=true&vCenter=true&width=405&height=40&lines=Hi+there+%F0%9F%91%8B+I'm+Kingmo)](https://github.com/KKingmo)
-
+<br/>
+<img alt="KingmoTag" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag.gif"/>
 </div>
 
 ### Motto
@@ -44,4 +43,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKingmo%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+<div align="center">
+<br/>
+<img alt="KingmoTagClose" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_close.gif"/>
+<br/>
+</div>
+
 </div>
