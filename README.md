@@ -2,7 +2,7 @@
 
 <div align="center">
 <br/>
-<img alt="KingmoTag" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag.gif"/>
+<img alt="KingmoTag" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_bling.gif"/>
 </div>
 
 ### Motto
@@ -50,7 +50,7 @@
 
 <div align="center">
 <br/>
-<img alt="KingmoTagClose" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_close.gif"/>
+<img alt="KingmoTagClose" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_close_bling.gif"/>
 <br/>
 </div>
 
