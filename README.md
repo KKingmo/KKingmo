@@ -9,7 +9,7 @@
   * 현상을 개선하기보다는 근본 원인을 찾아 문제를 해결하자.
   * 기억이 기록을 이기지는 못한다.
   
-#
+##
 
 ### Language and Tools
 <p>
@@ -23,7 +23,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-#
+##
 
 <table align="center">
 <tr>
