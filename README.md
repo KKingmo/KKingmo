@@ -9,8 +9,8 @@
   * 현상을 개선하기보다는 근본 원인을 찾아 문제를 해결하자.
   * 기억이 기록을 이기지는 못한다.
   
-<hr/>
-  
+#
+
 ### Language and Tools
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
@@ -23,7 +23,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<br/>
+#
 
 <table align="center">
 <tr>
