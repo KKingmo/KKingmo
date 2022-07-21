@@ -5,8 +5,6 @@
 <img alt="KingmoTag" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_bling.gif"/>
 </div>
 
-##
-
 ### Language and Tools
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
