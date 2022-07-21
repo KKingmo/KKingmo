@@ -5,9 +5,6 @@
 <img alt="KingmoTag" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_bling.gif"/>
 </div>
 
-### Motto
-  * 기억이 기록을 이기지는 못한다.
-  
 ##
 
 ### Language and Tools
