@@ -17,8 +17,6 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-##
-
 <table align="center">
 <tr>
 <td valign="top">
