@@ -30,10 +30,6 @@
 </tr>
 </table>
 
-<p align="center">
-<a href="https://opgc.me/#/users/kkingmo" target="_blank"><img src="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=basic" /></a>
-</p>
-
 <br/>
 
 <div align="center">
