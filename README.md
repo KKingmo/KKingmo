@@ -1,10 +1,5 @@
 <div>
 
-<div align="center">
-<br/>
-<img alt="KingmoTag" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_bling.gif"/>
-</div>
-
 ### Language and Tools
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
@@ -37,11 +32,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKingmo%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-<div align="center">
-<br/>
-<img alt="KingmoTagClose" src="https://github.com/KKingmo/KKingmo/blob/main/public/images/kingmo_tag_close_bling.gif"/>
-<br/>
-</div>
-
 </div>
