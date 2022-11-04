@@ -16,6 +16,11 @@
 <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/> 
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/> 
 <img alt="RTL" src="https://img.shields.io/badge/RTL-E9113B?style=flat-square&logo=RTL&logoColor=white"/> 
+<img alt="MUI" src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> 
+<img alt="AntDesign" src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=ant-design&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
+<img alt="ReactHookForm" src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat-square&logo=react-hook-form&logoColor=white"/> 
 </p>
 
 
