@@ -10,6 +10,12 @@
 <img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="StyledComponents" src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+<img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/> 
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/> 
+<img alt="RTL" src="https://img.shields.io/badge/RTL-E9113B?style=flat-square&logo=RTL&logoColor=white"/> 
 </p>
 
 
