@@ -45,13 +45,17 @@
 
 <br/>
 
-<div align="center">
-<a href="https://opgc.me/#/users/kkingmo" target="_blank"><img src="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=basic" /></a>
+<div align="center" style="display:'none'">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=basic">
+    <img alt="IMAGE" src="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=basic">
+  </picture>
 </div>
   
 <br/>
 
-<div align="center" style="display:'none'">
+<div align="center">
 <h3>Visitor count</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/kkingmo/count.svg)
