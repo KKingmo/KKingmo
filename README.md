@@ -22,6 +22,7 @@
 <img alt="AntDesign" src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=ant-design&logoColor=white"/> 
 <img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
 <img alt="ReactHookForm" src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white"/> 
+<img alt="Recoil" src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img alt="I18next" src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -29,7 +30,6 @@
 <img alt="ReactRouter" src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
 <img alt="Swiper" src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"/>
 <img alt="Frida" src="https://img.shields.io/badge/Frida-EF6456?style=flat-square&logo=frida&logoColor=white"/>
-<img alt="IDA" src="https://img.shields.io/badge/IDA-FFFFFF?style=flat-square&logo=IDA&logoColor=white"/>
 </p>
 
 <table align="center">
@@ -43,16 +43,6 @@
 </tr>
 </table>
 
-<br/>
-
-<div align="center" style="display:'none'">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=dracula">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=basic">
-    <img alt="IMAGE" src="https://api.opgc.me/githubs/users/kkingmo/tag/?theme=basic">
-  </picture>
-</div>
-  
 <br/>
 
 <div align="center">
