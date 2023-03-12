@@ -1,5 +1,46 @@
 <div>
+  
+## What can I do?  
+- React.js : SPA CSR Web Page / i18n service
+- React Native : Android Application / iOS Application / React native cli / Expo / i18n service
+- Web : JS / TS / Next.JS / pug / alpinejs / React.js / Restful API / GraphQL / CSS / HTML  
+- Mobile security vulnerability analysis using Frida  
 
+---
+  
+## Projects
+- [SakuraNFT](https://sakuranft.io/) - Development of the entire client-side of the service.
+- [Good Block](https://www.good-block.com/) - Development of the entire client-side of the service.
+  
+---
+  
+<table align="center">
+<tr>
+<td valign="top">
+<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=006d32&locale=kr">
+</td>
+<td valign="top">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=39d353&langs_count=8">
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<h3>Visitor count</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/kkingmo/count.svg)
+
+</div>
+
+</div>
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKingmo%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+<!--
 ### Tech Stack
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
@@ -31,29 +72,4 @@
 <img alt="Swiper" src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"/>
 <img alt="Frida" src="https://img.shields.io/badge/Frida-EF6456?style=flat-square&logo=frida&logoColor=white"/>
 </p>
-
-<table align="center">
-<tr>
-<td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=006d32&locale=kr">
-</td>
-<td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=39d353&langs_count=8">
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<h3>Visitor count</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/kkingmo/count.svg)
-
-</div>
-
-</div>
-
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKingmo%2Fhit-counter&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
