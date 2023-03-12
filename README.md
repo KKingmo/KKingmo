@@ -9,8 +9,8 @@
 ---
   
 ## Projects
-- [SakuraNFT](https://sakuranft.io/) - Development of the entire client-side of the service.
-- [Good Block](https://www.good-block.com/) - Development of the entire of the service.
+- [SakuraNFT Website](https://sakuranft.io/) - Development of the entire client-side of the service.
+- [Good Block Website](https://www.good-block.com/) - Development of the entire of the service.
   
 ---
   
