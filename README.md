@@ -10,10 +10,10 @@
   
 ## Projects
   
-- [Sakura NFT Website](https://sakuranft.io/)
+- [Sakura NFT WebApp](https://sakuranft.io/)
   - version : 2.0.0 (2022.11.07 ~ 2022.02.10)
     - Development of the entire client-side of the service.
-- [Good Block Website](https://www.good-block.com/)
+- [Good Block WebApp](https://www.good-block.com/)
   - version : 2.0.0 (2022.12.05 ~ 2022.12.09)
     - Development of the entire client-side of the service.
   
