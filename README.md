@@ -13,12 +13,13 @@
 - Good Block
   - [Sakura NFT](https://sakuranft.io/)
     - version : 2.0.0 (2022.11.07 ~ 2022.02.10)
-        - Frontend (React.js)
+        - Frontend 개발 담당 / Frontend 개발 기여도 : 100% / React.js
     - maintenance and upgrades (2022.02.10 ~ now)
   - [Good Block](https://www.good-block.com/)
     - version : 2.0.0 (2022.12.05 ~ 2022.12.09)
-        - Frontend (React.js)
+        - Frontend 개발 담당 / Frontend 개발 기여도 : 100% / React.js
     - maintenance and upgrades (2022.12.09 ~ now)
+  
 ---
   
 <table align="center">
