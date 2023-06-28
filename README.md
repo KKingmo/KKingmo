@@ -36,13 +36,15 @@
 <br/>
 
 <div align="center">
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <h3>Visitor count</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/kkingmo/count.svg)
 
 </div>
 
-![](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
