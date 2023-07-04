@@ -21,7 +21,8 @@
     - maintenance and upgrades (2022.12.09 ~ now)
   
 ---
-  
+
+<!--  
 <table align="center">
 <tr>
 <td valign="top">
@@ -34,6 +35,7 @@
 </table>
 
 <br/>
+-->
 
 <div align="center">
 
