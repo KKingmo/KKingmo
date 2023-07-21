@@ -15,7 +15,6 @@
     - 중앙화 NFT 거래소 개발
     - 2022.11.07 ~ 2022.02.10 (프로젝트 시작일 ~ 출시일)
     - Frontend 개발 담당 / Frontend 개발 기여도 : 100% / React.js
-    - 출시 후 지속적인 업그레이드
   
   - [Good Block](https://www.good-block.com/)
     - Good Block 홈페이지 개발
