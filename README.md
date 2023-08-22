@@ -23,10 +23,10 @@
   - CELEBUS
     - 글로벌 아티스트 팬덤을 위한 디지털 플랫폼 개발
     - [Google Play Store](https://play.google.com/store/apps/details?id=com.celebusapp)
-      - 2022.03.07 ~ 2022.07.12 (프로젝트 시작일 ~ 앱 출시일)
+      - 2022.03.07 ~ 2022.07.12 (프로젝트 시작일 ~ 출시일)
       - Android 앱 개발 전담 / React Native Cli
     - [Apple App Store](https://apps.apple.com/kr/app/celebus/id6451138533)
-      - 2022.03.07 ~ 2022.07.20 (프로젝트 시작일 ~ 앱 출시일)
+      - 2022.03.07 ~ 2022.07.20 (프로젝트 시작일 ~ 출시일)
       - IOS 앱 개발 전담 / React Native Cli
   
 ---
