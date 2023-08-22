@@ -3,8 +3,7 @@
 ## What can I do?  
 - React.js : SPA CSR Web Page / i18n service
 - React Native : Android Application / iOS Application / React native cli / Expo / i18n service
-- Web : JS / TS / Next.JS / pug / alpinejs / React.js / Restful API / GraphQL / CSS / HTML  
-- Mobile game security vulnerability analysis using Frida 
+- Web : JS / TS / Next.JS / pug / alpinejs / React.js / Restful API / GraphQL / CSS / HTML / Phoenix
 
 ---
   
