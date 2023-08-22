@@ -19,6 +19,7 @@
     - 2022.12.05 ~ 2022.12.09 (프로젝트 시작일 ~ 출시일)
     - Frontend 개발 전담 / React.js
 
+### 2023
   - CELEBUS
     - 글로벌 아티스트 팬덤을 위한 디지털 플랫폼 개발
     - [Google Play Store](https://play.google.com/store/apps/details?id=com.celebusapp)
