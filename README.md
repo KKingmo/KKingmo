@@ -33,7 +33,7 @@
 
 ### 2023
 - CELEBUS
-  - 글로벌 아티스트 팬덤을 위한 디지털 플랫폼 개발 및 유지보수
+  - 글로벌 아티스트 팬덤을 위한 디지털 플랫폼 개발
   - [Google Play Store](https://play.google.com/store/apps/details?id=com.celebusapp)
     - 2022.03.07 ~ 2022.07.12 (프로젝트 시작일 ~ 출시일)
     - Android 앱 개발 전담 / React Native Cli
