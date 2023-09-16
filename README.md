@@ -21,8 +21,8 @@
 ### 2022
   - [Sakura NFT](https://sakuranft.io/)
     - 2022.11.07 ~ 2022.02.10 (프로젝트 시작일 ~ 출시일)
-    - Frontend 개발 전담 / Next.js
     - 중앙화 NFT 거래소 개발
+    - Frontend 개발 전담 / Next.js
     - 웹소켓을 이용한 실시간 알림 및 UI 업데이트, sso 로그인, otp 인증, 다국어 서비스 등 프론트엔드 웹사이트 내 모든 UI 및 기능 구현
 
   - [Good Block](https://www.good-block.com/)
