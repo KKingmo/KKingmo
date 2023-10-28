@@ -1,48 +1,13 @@
 <div>
+
+  ## Experience  
   
-## What can I do?  
-- Web : JS / TS / Next.js / pug / alpinejs / React.js / Phoenix
-- App : React native cli / iOS Application / Android Application
-
-<br/>
-
-## Experiences
-
-### GoodBlock
-|             |                                                        |
-|-------------|--------------------------------------------------------|
-| **period**  | 22.11.01 ~ current                                       |
-| **position**| Frontend Developer |
-| **projects**| NFT 거래 플랫폼 / Android 플랫폼 / iOS 플랫폼 |
-| **tech-web**| Next.js, React.js, TypeScript, JavaScript, Redux, Redux-toolkit, i18next, react-18next, react-router, react-hook-form, MUI, emotion, gsap, Phoenix |
-| **tech-app**| React Native, React Native CLI, react-navigation |
-
-
-### 2022
-  - [Sakura NFT](https://sakuranft.io/)
-    - 2022.11.07 ~ 2022.02.10 (프로젝트 시작일 ~ 출시일)
-    - 중앙화 NFT 거래소 개발
-    - Frontend 개발 전담 / Next.js
-    - 웹소켓을 이용한 실시간 알림 및 UI 업데이트, sso 로그인, otp 인증, 다국어 서비스 등 프론트엔드 웹사이트 내 모든 UI 및 기능 구현
-
-  - [Good Block](https://www.good-block.com/)
-    - 2022.12.05 ~ 2022.12.09 (프로젝트 시작일 ~ 출시일)
-    - Good Block 홈페이지 개발
-    - Frontend 개발 전담 / React.js
-    - 회사 웹 사이트 개발 및 배포, Scroll Animation 구현
-
-### 2023
-- CELEBUS
-  - 글로벌 아티스트 팬덤을 위한 디지털 플랫폼 개발
-  - 동영상 플레이어, 오디오 플레이어, QR 코드 스캐너, 다국어 서비스, 소셜 로그인(Google, LINE, Apple), NFT Reveal, push notification, dynamic link, 아티스트 즐겨찾기 등 플랫폼 내 모든 UI 및 기능 구현
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.celebusapp)
-    - 2022.03.07 ~ 2022.07.12 (프로젝트 시작일 ~ 출시일)
-    - Android 앱 개발 전담 / React Native Cli
-    - Google Play Store 앱 배포 및 관리
-  - [Apple App Store](https://apps.apple.com/kr/app/celebus/id6451138533)
-    - 2022.03.07 ~ 2022.07.20 (프로젝트 시작일 ~ 출시일)
-    - iOS 앱 개발 전담 / React Native Cli
-    - Apple App Store 앱 배포 및 관리
+  - 2022.11.01 ~ current : Frontend Developer, @ GoodBlock
+  - 2022.11.07 ~ 2023.02.10 : [Sakura NFT](https://sakuranft.io/), Web frontend Development(React), @ GoodBlock
+  - 2022.12.05 ~ 2022.12.09 : [Good Block](https://www.good-block.com/), Web frontend Development(React), @ GoodBlock
+  - 2023.03.07 ~ 2023.07.12 : [CELEBUS](https://play.google.com/store/apps/details?id=com.celebusapp), Android App Development(React Native CLI), @ GoodBlock
+  - 2023.03.07 ~ 2023.07.20 : [CELEBUS](https://apps.apple.com/kr/app/celebus/id6451138533), iOS App Development(React Native CLI), @ GoodBlock
+  - 2023.10.14 ~ 2023.10.24 : [Dae Gwang Chang-Ho](https://www.dkwindows.co.kr/), Web Development(React), Design, @ Personal Project
   
 <br/>
 
