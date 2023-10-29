@@ -4,7 +4,7 @@
   
   - 2022.11.01 ~ current : Frontend Developer, @ GoodBlock
   - 2022.11.07 ~ 2023.02.10 : [Sakura NFT](https://sakuranft.io/), Web frontend Development(React), @ GoodBlock
-  - 2022.12.05 ~ 2022.12.09 : [Good Block](https://www.good-block.com/), Web frontend Development(React), @ GoodBlock
+  - 2022.12.05 ~ 2022.12.09 : [Good Block](https://www.good-block.com/), Web Development(React), @ GoodBlock
   - 2023.03.07 ~ 2023.07.12 : [CELEBUS](https://play.google.com/store/apps/details?id=com.celebusapp), Android App Development(React Native CLI), @ GoodBlock
   - 2023.03.07 ~ 2023.07.20 : [CELEBUS](https://apps.apple.com/kr/app/celebus/id6451138533), iOS App Development(React Native CLI), @ GoodBlock
   - 2023.10.14 ~ 2023.10.24 : [Dae Gwang Chang-Ho](https://www.dkwindows.co.kr/), Web Development(React), Design, @ Personal Project
