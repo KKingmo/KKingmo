@@ -1,30 +1,4 @@
-<div>
 
-  ## Experience  
-  
-  - 2022.11.01 ~ current : Frontend Developer, @GoodBlock
-  - 2022.11.07 ~ 2023.12.01 : NFT Exchange(NFT 거래소), Web frontend Development(React), @GoodBlock
-  - 2022.12.05 ~ : [Good Block](https://www.good-block.com/), Web Development(React), @GoodBlock
-  - 2023.03.07 ~ : [CELEBUS](https://play.google.com/store/apps/details?id=com.celebusapp), Android App Development(React Native CLI), @GoodBlock
-  - 2023.03.07 ~ : [CELEBUS](https://apps.apple.com/kr/app/celebus/id6451138533), iOS App Development(React Native CLI), @GoodBlock
-  - 2023.10.14 ~ : [Dae Gwang Chang-Ho](https://www.dkwindows.co.kr/), Web Development(React), Design, @Personal Project
-  
-<br/>
-
-<!--  
-<table align="center">
-<tr>
-<td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api?username=KKingmo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=006d32&locale=kr">
-</td>
-<td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KKingmo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=39d353&langs_count=8">
-</td>
-</tr>
-</table>
-
-<br/>
--->
 
 <div align="center">
 
